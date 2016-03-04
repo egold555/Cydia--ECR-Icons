@@ -1,0 +1,13 @@
+Package: org.golde.cydia.RepoIcons
+Name: Eric's Cydia Repo Icons
+Author: Eric Golde
+Version: 0.2.2
+Architecture: iphoneos-arm
+Description: Installs repo icons to Cydia.
+Homepage: http://eric.golde.org/erics-cydia-repo-icons/
+Maintainer: Eric Golde
+Section: ECR_Tweaks
+Replaces: org.golde.cydia.RepoIcons
+required: Yes
+Essential: Yes
+Conflicts: org.golde.cydia.Icon
